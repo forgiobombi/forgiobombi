@@ -18,12 +18,8 @@ const forgiobombi = {
 ```
 
 <h3 align="center">🏆 Boring stats</h3>
-<p align="center">
-    <a href="https://metrics.lecoq.io/about/forgiobombi">
-        <img align="center" src="https://github.com/forgiobombi/forgiobombi/blob/main/assets/main.svg" />
-    </a>
-
-</p>
 <hr>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=forgiobombi&show_icons=true&theme=merko" alt="Anurag's GitHub stats">
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=forgiobombi&show_icons=true&theme=merko)
