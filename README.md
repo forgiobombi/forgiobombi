@@ -25,15 +25,4 @@ const forgiobombi = {
 
 </p>
 <hr>
-<!--
-<h3 align="center">Profile Card</h3>
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=forgiobombi&show_icons=true&theme=tokyonight&hide_border=true" />
-    </a>
-    <br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=445" />
-    </a>
-</p>
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=forgiobombi&show_icons=true&theme=merko)
