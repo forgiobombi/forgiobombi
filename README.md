@@ -17,21 +17,10 @@ const forgiobombi = {
 };
 ```
 
-<hr>
-
-<h3 align="center">Discord Status</h3>
-<p align="center">
-    <a href="https://discord.com/users/414727168850132993">
-        <img alt="discord profile presence" src="https://lanyard-profile-readme.vercel.app/api/411641088944766982?idleMessage=Probably%20busy%20torturing%20myself%20with%20programming%20errors....&theme=dark" />
-    </a>
-</p>
-
-<hr>
-
 <h3 align="center">🏆 Boring stats</h3>
 <p align="center">
     <a href="https://metrics.lecoq.io/about/forgiobombi">
-        <img align="center" src="https://github.com/RealStr1ke/RealStr1ke/blob/main/assets/main.svg" />
+        <img align="center" src="https://github.com/forgiobombi/forgiobombi/blob/main/assets/main.svg" />
     </a>
 
 </p>
